@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "productName": "T-shirt",
+  "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elite. Sequi, perferendis beatae asperiores.",
+  "price": 100,
+  "imageLink": [
+    "./imgs/1/1-1.jfif",
+    "./imgs/1/1-2.jfif",
+    "./imgs/1/1-3.png",
+    "./imgs/1/1-4.jfif"
+  ]
+}
